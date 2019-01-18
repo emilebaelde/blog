@@ -1,0 +1,29 @@
+[
+  {
+    "id":1,
+    "title":"Dit is mijn eerste artikel",
+    "image":"http://lorempixel.com/640/480/people",
+    "sluck":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod tellus at posuere euismod. Duis vitae malesuada orci. Sed quis condimentum velit. Quisque vel turpis sit amet turpis blandit scelerisque.",
+    "auteur":"Emile Baelde",
+    "date":"16/01/2019"
+  },
+  {
+    "id":2,
+    "title":"Dit is mijn tweede artikel",
+    "image":"http://lorempixel.com/640/480/nature",
+    "sluck":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod tellus at posuere euismod. Duis vitae malesuada orci. Sed quis condimentum velit. Quisque vel turpis sit amet turpis blandit scelerisque.",
+    "auteur":"Emile Baelde",
+    "date":"16/01/2019"
+  },
+  {
+    "id":3,
+    "title":"Dit is mijn derde artikel",
+    "image":"http://lorempixel.com/640/480/sports",
+    "sluck":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod tellus at posuere euismod. Duis vitae malesuada orci. Sed quis condimentum velit. Quisque vel turpis sit amet turpis blandit scelerisque.",
+    "auteur":"Emile Baelde",
+    "date":"16/01/2019"
+  }
+]
